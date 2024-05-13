@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang= "pt-br">
+    <head>
+        <link rel="stylesheet" type="text/css" href="https://getbootstrap.com/docs/4.3/getting-started/download/">
+     <meta charset="UTF-8">
+     <title>CORINGASSO</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+     <p>Atendimento</p>
+     <p>Meus Pedidos</p>
+     <p>Excluir Conta</p>
+     <h1>PRODUTOS EM OFERTA</h1>
+     <ul>
+       <li>TITULOS DO CORINGAOOOO</li>
+       <li>MELHORES DEFESAS DO CÁSSIO 2012 MUNDIAL DE CLUBES</li>
+       <a href="https://media.tenor.com/It_uScpL9TQAAAAM/yurialberto.gif">YURI ALBERTO DEZLIZANDO
+             <br>        
+            
+       
+     </ul>
+        <audio autoplay="autoplay" controls="controls">
+        <source src="hino.mp3" type="hino/mp3" />
+        seu navegador não suporta HTML5
+        </audio>
+ </body>
+</html>
